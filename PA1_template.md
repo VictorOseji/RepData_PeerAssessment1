@@ -93,7 +93,7 @@ daily_steps %>%
 
 ```
 
-![]{figure/RCplot1.png}
+![](instructions_fig/RCplot1.png)
 
 
 ## What is the average daily activity pattern?
@@ -161,7 +161,7 @@ AvgStep_5min_int %>%
     )
   )
 ```
-![](figure/RCplot2.png)
+![](instructions_fig/RCplot2.png)
 
 ```r
 # Summarize the daily steps data
@@ -251,7 +251,7 @@ AvgStep_5min_int %>%
   )
 ```
 
-![](figure/RCplot2.png)
+![](instructions_fig/RCplot2.png)
 
 ```r
 # Modify the `highest_pt` data to include a descriptive time interval
@@ -336,7 +336,7 @@ filleddaily_steps %>%
   )
 ```
 
-![](figure/RCplot3.png)
+![](instructions_fig/RCplot3.png)
 
 ```{r}
 
@@ -446,4 +446,4 @@ filled_int_data %>%
     )
   )
 ```
-![](figure/RCplot4.png)
+![](instructions_fig/RCplot4.png)
